@@ -9,7 +9,7 @@ var dotenv = require("dotenv").config;
     storageBucket: "document-manager-6df6d.appspot.com",
  };
 
- 
+
  var app = firebase.initializeApp(config);
 
 
