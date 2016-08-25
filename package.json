@@ -1,0 +1,27 @@
+{
+  "name": "document-manager",
+  "version": "1.0.0",
+  "description": "Web app to manage documents",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolafas/bc-19-Document-Management-Tracker.git"
+  },
+  "keywords": [
+    "documents",
+    "nodejs"
+  ],
+  "author": "Alade michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolafas/bc-19-Document-Management-Tracker/issues"
+  },
+  "homepage": "https://github.com/kolafas/bc-19-Document-Management-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
